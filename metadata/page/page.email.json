@@ -5,8 +5,12 @@
     {
       "_id": "page.email--email.auto_name__2",
       "_type": "email",
+      "hint": "Copy of your answers will be sent to you.",
       "label": "Email Address",
-      "name": "auto_name__2"
+      "name": "email-address",
+      "validation": {
+        "required": true
+      }
     }
   ],
   "url": "email"
