@@ -2,7 +2,7 @@
   "_id": "service",
   "_isa": "@ministryofjustice/fb-components=>service",
   "_type": "config.service",
-  "attachUserSubmission": true,
+  "attachUserSubmission": false,
   "emailSubjectTeam": "Matt's Test Form",
   "name": "Matt's Test Form",
   "pdfHeading": "Matt's Test Form PDF"

@@ -6,9 +6,7 @@
   "lede": "This is your start page first paragraph. You can only have one paragraph here.",
   "steps": [
     "page.name",
-    "page.email",
-    "page.upload-question",
-    "page.upload",
+    "page.case-no",
     "page.check-answers",
     "page.confirmation"
   ],

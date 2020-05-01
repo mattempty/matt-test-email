@@ -1,10 +1,6 @@
 {
   "_id": "page.check-answers",
   "_type": "page.summary",
-  "show": {
-    "identifier": "upload-document",
-    "operator": "is",
-    "value": "yes"
-  },
+  "show": true,
   "url": "check-answers"
 }
