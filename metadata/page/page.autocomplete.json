@@ -1,0 +1,40 @@
+{
+  "_id": "page.autocomplete",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.autocomplete--autocomplete.auto_name__4",
+      "_type": "autocomplete",
+      "items": [
+        {
+          "_id": "page.autocomplete--autocomplete.auto_name__4--option",
+          "_type": "option",
+          "text": "Alpha",
+          "value": "a"
+        },
+        {
+          "_id": "page.autocomplete--autocomplete.auto_name__4--option--2",
+          "_type": "option"
+        },
+        {
+          "_id": "page.autocomplete--autocomplete.auto_name__4--option--3",
+          "_type": "option"
+        },
+        {
+          "_id": "page.autocomplete--autocomplete.auto_name__4--option--4",
+          "_type": "option"
+        },
+        {
+          "_id": "page.autocomplete--autocomplete.auto_name__4--option--5",
+          "_type": "option"
+        },
+        {
+          "_id": "page.autocomplete--autocomplete.auto_name__4--option--6",
+          "_type": "option"
+        }
+      ],
+      "name": "auto_name__4"
+    }
+  ],
+  "url": "autocomplete"
+}
