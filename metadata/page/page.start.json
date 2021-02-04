@@ -7,9 +7,10 @@
   "steps": [
     "page.name",
     "page.case-no",
+    "page.file-upload",
+    "page.autocomplete",
     "page.check-answers",
-    "page.confirmation",
-    "page.autocomplete"
+    "page.confirmation"
   ],
   "url": "/"
 }

@@ -1,0 +1,6 @@
+{
+  "_id": "button.continue.two",
+  "_type": "string",
+  "description": "Advance continue button text",
+  "value": "Advance"
+}
