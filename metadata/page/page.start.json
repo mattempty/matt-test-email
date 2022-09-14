@@ -7,8 +7,7 @@
   "steps": [
     "page.name",
     "page.case-no",
-    "page.file-upload",
-    "page.autocomplete",
+    "page.email",
     "page.check-answers",
     "page.confirmation"
   ],
