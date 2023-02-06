@@ -5,6 +5,5 @@
   "attachUserSubmission": false,
   "emailSubjectTeam": "Matt's Test Form",
   "name": "form builder testing",
-  "pdfHeading": "Matt's Test Form PDF",
-  "serviceEmailAddress": "matthew.tei@justice.gov.uk"
+  "pdfHeading": "Matt's Test Form PDF"
 }
